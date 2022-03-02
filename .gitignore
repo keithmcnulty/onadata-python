@@ -3,3 +3,8 @@
 .tox
 */.tox/*
 test.ipynb
+.Rproj.user
+.Rprofile
+*.Rproj
+*cache
+.Rhistory

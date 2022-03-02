@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: onadata
+Version: 0.1
+Summary: Allows data access from the book - Handbook of Graphs and Networks in People Analytics.
+Home-page: https://github.com/keithmcnulty/onadata-python
+Author: Keith McNulty
+Author-email: keith.mcnulty@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Overview
 
 Project name: onadata-python
@@ -37,3 +52,5 @@ The data dictionary pertinent to all the data sets can be found [here](https://c
 # LICENSE
 
 - MIT
+
+
